@@ -1,4 +1,4 @@
-# Box Office Predictions using a AugBoost Hybrid LightGBM–Neural Regression Model
+# Box Office Predictions using an AugBoost Hybrid LightGBM–Neural Regression Model
 
 
 ### 1. This model trains an LGBM regressor to predict log-based revenue
