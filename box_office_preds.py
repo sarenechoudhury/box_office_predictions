@@ -23,13 +23,13 @@ def safe_qcut(series, q=3, labels=None):
 
 os.makedirs("figures", exist_ok=True)
 
-df = pd.read_csv("cleaned_movies_metadata.csv")
+df = pd.read_csv("data/cleaned_movies_metadata.csv")
 
-rt = pd.read_csv("rotten_tomatoes_movies.csv")
+rt = pd.read_csv("data/rotten_tomatoes_movies.csv")
 df = df.merge(rt[['title', 'rating']], how='left', on='title')
 df['rating'] = df['rating'].astype('category').cat.codes
 
-credits = pd.read_csv("credits.csv")
+credits = pd.read_csv("data/credits.csv")
 df = df.merge(credits[['id', 'cast', 'crew']], how='left', on='id')
 
 # Missing Values Heatmap
