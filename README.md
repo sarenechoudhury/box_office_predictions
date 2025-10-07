@@ -28,7 +28,7 @@
 
 *Inspired by:*
 
-*knowledge.wharton.upenn.edu/wp-content/uploads/2022/03/1329.pdf*
+*https://knowledge.wharton.upenn.edu/wp-content/uploads/2022/03/1329.pdf*
 
 *www.sciencedirect.com/science/article/pii/S0957417405001399*
 
