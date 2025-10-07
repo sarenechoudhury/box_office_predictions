@@ -23,4 +23,17 @@
 
 *https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews?resource=download*
 
+<br />
+<br />
+
+*Inspired by:*
+
+*knowledge.wharton.upenn.edu/wp-content/uploads/2022/03/1329.pdf*
+
+*www.sciencedirect.com/science/article/pii/S0957417405001399*
+
+*www.ijcai.org/proceedings/2019/0493.pdf*
+
+*www.sciencedirect.com/science/article/abs/pii/S156625351930497X*
+
 
