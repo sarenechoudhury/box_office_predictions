@@ -1,5 +1,7 @@
 # Box Office Predictions using an AugBoost Hybrid LightGBM–Neural Regression Model
 
+<br />
+<br />
 
 ### 1. This model trains an LGBM regressor to predict log-based revenue
 
@@ -7,9 +9,15 @@
 
 ### 3. Iteratively repeats this process to enrich the data and then trains the final LGBM model on that feature set 
 
+<br />
+
 #### Notes: The box_office_preds file contains an optional feature pruning function that may affect performance depending on specific datasets used. It also contains graphing functions throughout to visualize data at various points, and a few more comments. The box_office_preds_clean file does not contain those.
 
-*Data from Kaggle*
+<br />
+<br />
+
+
+*Data from Kaggle:*
 
 *https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?resource=download*
 
